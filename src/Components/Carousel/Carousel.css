@@ -1,0 +1,12 @@
+.carousel_container {
+  height: 50vh;
+  background: lightcoral;
+  width: 80%;
+  margin: 10px;
+}
+
+.carosol_image {
+  height: 50vh;
+  object-fit: cover;
+  margin: auto;
+}
